@@ -1,6 +1,3 @@
-# AI-DATA_MODULAR
-
-
 # Modular Context-Oriented AI Platform (Prototype)
 
 ## Features
@@ -13,3 +10,22 @@
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+Put your datasets in data/ folder.
+
+Run the app:
+
+python conversational_app.py
+
+
+Example queries:
+
+"Show me revenue by region"
+
+"Which department overspent"
+
+"Monthly sales trend"
+
+"Expense vs budget"
+
+
+
